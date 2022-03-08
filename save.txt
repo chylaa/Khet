@@ -1,0 +1,30 @@
+
+Piramida_b s 9 4 
+Piramida_b w 9 3 
+Piramida_b n 7 6 
+Piramida_b w 2 7 
+Piramida_b w 2 4 
+Piramida_b s 2 3 
+Piramida_b w 3 2 
+Sfinks_b n 9 7 
+Skarabeusz_b e 4 4 
+Skarabeusz_b n 6 5 
+Anubis_b n 5 7 
+Anubis_b n 3 7 
+Faraon_b n 4 7 
+Gb
+piramida e 0 4 
+piramida s 2 1 
+piramida e 7 0 
+piramida e 7 3 
+piramida n 7 4 
+piramida e 5 4 
+Sfinks s 0 0 
+Skarabeusz s 4 3 
+Skarabeusz w 5 3 
+Anubis s 4 0 
+Anubis s 6 0 
+Faraon s 5 0 
+Gc
+1
+0
