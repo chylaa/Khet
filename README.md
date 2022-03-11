@@ -5,5 +5,5 @@ Zasady rozgrywki klasyczne (przykładowy opis: http://spieosa.fizyka.umk.pl/anne
 
 Projekt stworzony na potrzeby przedmiotu Programowanie Komputerów 4 (2020/2021) z wykorzystaniem języka C++ oraz biblioteki SFML.
 
-![Menu gry](https://github.com/chylaa/Khet/blob/master/MainScreen.jpg?raw=true)
+![Menu gry](https://github.com/chylaa/Khet/blob/master/MenuScreen.png?raw=true)
 
