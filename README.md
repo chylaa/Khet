@@ -5,8 +5,8 @@ Zasady rozgrywki klasyczne. [Przykładowy opis zasad](http://spieosa.fizyka.umk.
 
 Dokumentacja projektu wraz ze sposobem prowadzenia rozgrywki: [Dokumentacja.pdf](Dokumentacja.pdf)
 
->
-Projekt stworzony na potrzeby przedmiotu Programowanie Komputerów 4 (2020/2021) z wykorzystaniem języka C++ oraz biblioteki SFML.
+
+## Projekt stworzony na potrzeby przedmiotu Programowanie Komputerów 4 (2020/2021) z wykorzystaniem języka C++ oraz biblioteki SFML.
 
 ![Menu gry](https://github.com/chylaa/Khet/blob/master/MainScreen.png?raw=true)
 ![Rozgrywka](https://github.com/chylaa/Khet/blob/master/GameScreen.png?raw=true)
